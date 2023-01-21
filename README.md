@@ -1,3 +1,3 @@
 # hello world
 
-![](https://raw.githubusercontent.com/AgoniGy/AgoniGy/main/assets/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/AgoniGy/AgoniGy/main/assets/github-contribution-grid-snake.gif)
